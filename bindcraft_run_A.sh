@@ -1,0 +1,1 @@
+python -u /data1/tlarnd2/software/BindCraft/bindcraft_mod_traj.py --settings '/data1/tlarnd2/Documents/new_bindcraft/rgg-pep-4-reuse-trajectory/RGG3.json' --filters '/data1/tlarnd2/Documents/new_bindcraft/rgg-pep-4-reuse-trajectory/peptide_loss_filters.json' --advanced '/data1/tlarnd2/Documents/new_bindcraft/rgg-pep-4-reuse-trajectory/peptide_3stage_multimer_mpnn_flexible.json' 

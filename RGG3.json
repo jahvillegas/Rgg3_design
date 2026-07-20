@@ -1,0 +1,9 @@
+{
+    "design_path": "/data1/tlarnd2/Documents/new_bindcraft/rgg-pep-4-reuse-trajectory/out",
+    "binder_name": "6W1F-pep3",
+    "starting_pdb": "/data1/tlarnd2/Documents/new_bindcraft/rgg-pep-4-reuse-trajectory/6W1F.pdb",
+    "chains": "A,B",
+    "target_hotspot_residues": "",
+    "lengths": [11,17],
+    "number_of_final_designs": 100
+}

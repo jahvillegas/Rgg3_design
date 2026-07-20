@@ -1,0 +1,15 @@
+nohup: ignoring input
+Available GPUs:
+NVIDIA RTX 6000 Ada Generation1: gpu
+NVIDIA RTX 6000 Ada Generation2: gpu
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                 PyRosetta-4                                  │
+│              Created in JHU by Sergey Lyskov and PyRosetta Team              │
+│              (C) Copyright Rosetta Commons Member Institutions               │
+│                                                                              │
+│ NOTE: USE OF PyRosetta FOR COMMERCIAL PURPOSES REQUIRE PURCHASE OF A LICENSE │
+│         See LICENSE.PyRosetta.md or email license@uw.edu for details         │
+└──────────────────────────────────────────────────────────────────────────────┘
+PyRosetta-4 2024 [Rosetta PyRosetta4.conda.ubuntu.cxx11thread.serialization.Ubuntu.python310.Release 2024.42+release.3366cf78a3df04339d1982e94531b77b098ddb99 2024-10-11T08:24:04] retrieved from: http://www.pyrosetta.org
+Target number of 326 trajectories reached, stopping execution...
+Finished all designs. Script execution for 1 trajectories took: 0 hours, 0 minutes, 0 seconds
